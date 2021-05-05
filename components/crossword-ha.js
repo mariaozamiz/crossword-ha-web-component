@@ -206,21 +206,6 @@ function getTemplate(columns, letters) {
         html {
             font-size: 16px;
         }
-    
-        .header,
-        .form {
-            margin-left: 40%;
-        }
-    
-        .hero {
-            position: absolute;
-            top: 0;
-            left: 0;
-            bottom: 0;
-            margin: 0;
-            width: 35%;
-            height: 100vh;
-        }
     }
     
     </style>
